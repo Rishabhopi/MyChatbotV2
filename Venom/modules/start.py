@@ -34,7 +34,7 @@ async def start(_, m: Message):
         await asyncio.sleep(0.2)
         await accha.edit(" ꨄ sтαятιиg...")
         await asyncio.sleep(0.2)
-        await accha.edit("**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}...💥**")
+        await accha.edit("𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎......")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
