@@ -79,7 +79,7 @@ async def help(client: VenomX, m: Message):
         await add_served_chat(m.chat.id)
 
 
-@VenomX.on_cmd("repo")
+@VenomX.on_cmd("revupo")
 async def repo(_, m: Message):
     await m.reply_text(
         text=SOURCE_READ,
