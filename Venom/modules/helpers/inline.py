@@ -98,7 +98,7 @@ CHATBOT_BACK = [
 
 HELP_START = [
     [
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
+        InlineKeyboardButton(text="**❍ 𝐇ᴇʟᴘ ❍**", callback_data="HELP"),
         InlineKeyboardButton(text="**❍ 𝐂ʟᴏ𝐬ᴇ ❍**", callback_data="CLOSE"),
     ],
 ]
@@ -107,7 +107,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{VenomX.username}?start=help"
+            text="**❍ 𝐇ᴇʟᴘ ❍**", url=f"https://t.me/{VenomX.username}?start=help"
         ),
         InlineKeyboardButton(text="**❍ 𝐂ʟᴏ𝐬ᴇ ❍**", callback_data="CLOSE"),
     ],
@@ -117,7 +117,7 @@ HELP_BUTN = [
 ABOUT_BTN = [
     [
         InlineKeyboardButton(text="**❍ 𝐒ᴜᴘᴘᴏʀᴛ ❍**", url=f"https://t.me/{SUPPORT_GRP}"),
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ ", callback_data="HELP"),
+        InlineKeyboardButton(text="**❍ 𝐇ᴇʟᴘ ❍**", callback_data="HELP"),
     ],
     [
         InlineKeyboardButton(text="**❍ 𝐎ᴡɴᴇʀ ❍**", user_id=OWNER),
