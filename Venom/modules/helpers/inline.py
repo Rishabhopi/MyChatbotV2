@@ -6,7 +6,7 @@ from Venom import VenomX
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", user_id=OWNER),
+        InlineKeyboardButton(text="🍭ᴏᴡɴᴇʀ🍭", user_id=OWNER),
         InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
@@ -117,14 +117,13 @@ HELP_BUTN = [
 ABOUT_BTN = [
     [
         InlineKeyboardButton(text="🎄 sᴜᴘᴘᴏʀᴛ 🎄", url=f"https://t.me/{SUPPORT_GRP}"),
-        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ 🚀", callback_data="HELP"),
+        InlineKeyboardButton(text="🚀 ʜᴇʟᴘ ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="🍾 ᴏᴡɴᴇʀ 🍾", user_id=OWNER),
-        InlineKeyboardButton(text="🍁ᴋʜᴜsʜɪ🍁", callback_data="SOURCE"),
+        InlineKeyboardButton(text="🍾 ᴏᴡɴᴇʀ", user_id=OWNER),
     ],
     [
-        InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs 🐳", url=f"https://t.me/{UPDATE_CHNL}"),
-        InlineKeyboardButton(text="✨ ʙᴀᴄᴋ ✨", callback_data="BACK"),
+        InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATE_CHNL}"),
+        InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="BACK"),
     ],
 ]
