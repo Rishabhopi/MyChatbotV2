@@ -19,8 +19,8 @@ DEV_OP = [
         InlineKeyboardButton(text="**❍ 𝐘ᴏᴜʀ 𝐂ᴏᴍᴍᴀɴᴅ ❍**", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="🍁ᴋʜᴜsʜɪ🍁", callback_data="SOURCE"),
-        InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="ABOUT"),
+        InlineKeyboardButton(text="**❍ 𝐊ʜᴜ𝐬ʜɪ ❍**", callback_data="SOURCE"),
+        InlineKeyboardButton(text="**❍ 𝐀ʙᴏᴜᴛ ❍**", callback_data="ABOUT"),
     ],
 ]
 
