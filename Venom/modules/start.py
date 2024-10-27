@@ -42,7 +42,7 @@ async def start(_, m: Message):
         await umm.delete()
         await m.reply_photo(
             photo=random.choice(IMG),
-            caption=f"""**๏➻ 💥 𝐇𝐢 𝐈'𝐦 𝐀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🌷.\n\n📌 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 𝐊𝐡𝐮𝐬𝐡𝐢 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🌷 \n\n𝐅𝐨𝐫𝐦 𝐈𝐧𝐝𝐢𝐚 🇮🇳 \n\n /chatbot - [on|off] 𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐔𝐬𝐞 𝐎𝐧𝐥𝐲 𝐨𝐧 𝐆𝐫𝐨𝐮𝐩..
+            caption=f"""**๏➻𝐇𝐢 𝐈'𝐦 𝐀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭❍.\n\n❍ 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 𝐊𝐡𝐮𝐬𝐡𝐢 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 ❍\n\n❍𝐅𝐨𝐫𝐦 𝐈𝐧𝐝𝐢𝐚 🇮🇳 ❍\n\n❍ /chatbot - [on|off] 𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐔𝐬𝐞 𝐎𝐧𝐥𝐲 𝐨𝐧 𝐆𝐫𝐨𝐮𝐩..❍
 
 ┏━━━━━━━━━━━━━━━━━✺
 ┣❥︎ ♕︎𝐎𝐰𝐧𝐞𝐫♕︎   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/Rishu1286)
