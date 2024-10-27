@@ -30,11 +30,11 @@ async def start(_, m: Message):
             text=random.choice(EMOJIOS),
         )
         await asyncio.sleep(1.3)
-        await accha.edit(" ꨄ︎ ѕтαятιиg..")
+        await accha.edit(" ꨄ︎ ѕтαят..")
         await asyncio.sleep(0.2)
         await accha.edit(" ꨄ sтαятιиg...")
         await asyncio.sleep(0.2)
-        await accha.edit(" ꨄ︎ sтαятιиg....")
+        await accha.edit("**𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐁𝐚𝐛𝐲 ꨄ︎ {message.from_user.mention}...💥**")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
