@@ -68,15 +68,15 @@ CLOSE_BTN = [
 
 CHATBOT_ON = [
     [
-        InlineKeyboardButton(text="ᴇɴᴀʙʟᴇ", callback_data=f"addchat"),
-        InlineKeyboardButton(text="ᴅɪsᴀʙʟᴇ", callback_data=f"rmchat"),
+        InlineKeyboardButton(text="**❍ 𝐄ɴᴀʙʟᴇ ❍**", callback_data=f"addchat"),
+        InlineKeyboardButton(text="**❍ 𝐃ɪ𝐬ᴀʙʟᴇ ❍**", callback_data=f"rmchat"),
     ],
 ]
 
 
 MUSIC_BACK_BTN = [
     [
-        InlineKeyboardButton(text="sᴏᴏɴ", callback_data=f"soom"),
+        InlineKeyboardButton(text="**❍ 𝐒ᴏᴏɴ ❍**", callback_data=f"soom"),
     ],
 ]
 
